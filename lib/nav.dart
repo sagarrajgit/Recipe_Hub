@@ -36,6 +36,7 @@ class _NavBarState extends State<NavBar> {
               icon: Icon(Icons.favorite), label: 'Favourites'),
         ],
       ),
+      // test comment
     );
   }
 }

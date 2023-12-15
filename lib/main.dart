@@ -22,5 +22,5 @@ class MyApp extends StatelessWidget{
       ),
       home: const NavBar(),
     );
-  }
+  } // test comment 2
 }
